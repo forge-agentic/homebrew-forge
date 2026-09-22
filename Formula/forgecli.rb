@@ -1,6 +1,6 @@
 class Forgecli < Formula
   desc "Idea to product in one command"
-  homepage "https://github.com/Ddundee/forge"
+  homepage "https://github.com/forge-agentic/forge"
   url "https://github.com/Ddundee/forge/archive/refs/tags/v0.2.24.tar.gz"
   sha256 "173d9d10ba6fc6bb72b137ba7a0f1539bf0fce26b10e05710682f75625cb3d0e"
   license "MIT"
